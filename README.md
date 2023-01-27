@@ -21,3 +21,7 @@ Perform augmentations (Grayscale, Saturation, Noise)
 Pass the dataset through YOLO v5 and take the regions within the bounding boxes
 Preprocessing techniques were applied on images before using Tesseract
 Images were passed over Tesseract and the output is saved as a CSV file
+
+
+https://user-images.githubusercontent.com/90424000/215148791-99319987-bec8-4808-97b0-b3a47c6f9b9c.mp4
+
