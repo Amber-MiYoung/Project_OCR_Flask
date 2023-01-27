@@ -16,11 +16,11 @@ However, each report in this system must be manually added by a user. Along with
 
 3. Solution
 3.1 OCR for Medical Reports Workflow
-Detect the regions and do the annotations
-Perform augmentations (Grayscale, Saturation, Noise)
-Pass the dataset through YOLO v5 and take the regions within the bounding boxes
-Preprocessing techniques were applied on images before using Tesseract
-Images were passed over Tesseract and the output is saved as a CSV file
+3.2 Detect the regions and do the annotations
+3.3 Perform augmentations (Grayscale, Saturation, Noise)
+3.4 Pass the dataset through YOLO v5 and take the regions within the bounding boxes
+3.5 Preprocessing techniques were applied on images before using Tesseract
+3.6 Images were passed over Tesseract and the output is saved as a CSV file
 
 
 https://user-images.githubusercontent.com/90424000/215148791-99319987-bec8-4808-97b0-b3a47c6f9b9c.mp4
